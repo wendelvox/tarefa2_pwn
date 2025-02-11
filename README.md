@@ -1,7 +1,8 @@
 # Projeto de Controle de Servo Motor e LED com PWM na Raspberry Pi Pico
 
 Este projeto foi desenvolvido para controlar um servo motor e um LED utilizando modulação por largura de pulso (PWM) com a Raspberry Pi Pico. O código foi projetado para ser simulado no Wokwi e executado na Raspberry Pi Pico. O servo motor realiza movimentos suaves entre diferentes ângulos, e o LED tem seu brilho controlado via PWM.
-
+## Video
+- https://www.youtube.com/watch?v=aQHommlVUlI
 ## Requisitos
 
 - **Hardware:**
